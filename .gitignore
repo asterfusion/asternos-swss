@@ -38,6 +38,21 @@ stamp-h1
 **/.libs/
 **/Makefile
 
+autom4te.cache/
+cfgmgr/sflowmgrd
+debian/.debhelper/
+debian/autoreconf.after
+debian/autoreconf.before
+debian/debhelper-build-stamp
+debian/swss-dbg/
+mclagsyncd/mclagsyncd
+tests/mock_tests/test-suite.log
+tests/mock_tests/tests.log
+tests/mock_tests/tests.trs
+tests/test-suite.log
+tests/tests.log
+tests/tests.trs
+
 # Dependency Folder #
 #####################
 deps/
